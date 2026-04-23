@@ -3,7 +3,7 @@ Contributors: Viet Trinh
 
 Company: ML Freizeitshop
 
-Link: https://ml-freizeitshop.de
+Link: [https://ml-freizeitshop.de](https://ml-freizeitshop.de/pages/camper-strom-rechner-plugin)
 
 Tags: camper, solar, battery, calculator
 
