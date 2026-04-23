@@ -1,5 +1,9 @@
 # Camper Power Calculator
-Contributors: Viet Trinh - ML Freizeitshop
+Contributors: Viet Trinh
+
+Company: ML Freizeitshop
+
+Link: https://ml-freizeitshop.de
 
 Tags: camper, solar, battery, calculator
 
