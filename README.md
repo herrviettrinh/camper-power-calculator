@@ -1,5 +1,4 @@
-# camper-power-calculator
-=== Camper Power Calculator ===
+# Camper Power Calculator
 Contributors: Viet Trinh - ML Freizeitshop
 Tags: camper, solar, battery, calculator
 Requires at least: 5.0
