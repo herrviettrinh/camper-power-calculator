@@ -1,4 +1,4 @@
-# Camper Power Calculator
+# Camper Power Calculator Wordpress Plugin
 Contributors: Viet Trinh
 
 Company: ML Freizeitshop
